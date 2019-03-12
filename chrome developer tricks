@@ -1,0 +1,26 @@
+https://www.youtube.com/watch?v=xkzDaKwinA8
+
+console.log("to display normal log on console");
+
+console.error("to display error msg on console");
+console.warn("to display warning msg on console");
+console.info("to display warning msg on console");
+
+to apply style on the console msg
+console.log('%c 'to display normal log on console','background:red');
+
+
+to clear the console
+console.clear();
+
+to check some condition in the console
+console.assert();
+
+to display dom element on console
+
+console.log(TreeComponent);
+ console.dir(TreeComponent);
+for typescript we have to use  @ViewChild(TreeComponent) private tree: TreeComponent;
+
+console.time('any var');
+console.timeEnd('any var');
