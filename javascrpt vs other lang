@@ -1,4 +1,14 @@
 java--
 array-- can have values of similar type
 JS- can have values of multiple types (its type is object in JS)
+You can have objects in an Array. You can have functions in an Array. You can have arrays in an Array:
+
 var person = ["John", "Doe", 46];
+
+Many programming languages support arrays with named indexes.
+
+Arrays with named indexes are called associative arrays (or hashes).
+
+JavaScript does not support arrays with named indexes.
+
+In JavaScript, arrays always use numbered indexes.  
