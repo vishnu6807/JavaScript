@@ -1,0 +1,4 @@
+java--
+array-- can have values of similar type
+JS- can have values of multiple types (its type is object in JS)
+var person = ["John", "Doe", 46];
